@@ -1,2 +1,2 @@
-# demos
-Repo for demos of how to work with Procedural Compute
+# Procedural Demos
+This repo contains demos of how to work with Procedural Compute
