@@ -1,6 +1,6 @@
 {
   "name": "Virtual Wind Tunnel",
   "description": "This demo shows how to run a virtual wind tunnel.",
-  "videoURL": "https://www.youtube.com/embed/F6MbzIVHRSQ",
+  "videoUrl": "https://www.youtube.com/embed/F6MbzIVHRSQ",
   "downloadUrl": "https://github.com/procedural-build/demos/blob/master/VWT/ComputeVWT-DEMO.gh?raw=true"
 }
