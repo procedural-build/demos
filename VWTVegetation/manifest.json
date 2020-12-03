@@ -1,0 +1,6 @@
+{
+  "name": "Wind Tunnel with Vegetation",
+  "description": "Run the virtual wind tunnel with vegetation! If you are interested in seeing the effects of trees and bushes on the air flow around buildings, try this demo.",
+  "downloadUrl": "https://github.com/procedural-build/demos/blob/master/VWTVegetation/VWT_With_Vegetation.gh?raw=true",
+  "pictureUrl": "https://github.com/procedural-build/demos/blob/master/VWTVegetation/vwt_vegetation.png?raw=true"
+}
