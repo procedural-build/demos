@@ -1,6 +1,6 @@
 {
   "name": "Daylight Factor",
-  "description": "See how to run a Daylight Factor Simulation on Compute! In this demo we setup a simple case with Ladybug/HoneyBee (Legacy) and simulate it on Compute, pulls the results down and visualize them as if we had ran it locally!",
+  "description": "See how to run a Daylight Factor simulation on Compute! In this demo we setup a simple case and simulate it on Compute, pulls the results down and visualize them as if we had ran it locally!",
   "downloadUrl": "https://github.com/procedural-build/demos/blob/master/DaylightFactor/DaylightFactor.gh?raw=true",
   "pictureUrl": "https://github.com/procedural-build/demos/blob/master/DaylightFactor/daylight_factor.png?raw=true"
 }
