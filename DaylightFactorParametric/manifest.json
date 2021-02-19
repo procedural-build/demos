@@ -2,5 +2,6 @@
   "name": "Parametric Daylight Factor",
   "description": "Experience the power of the cloud with this demo, where we set up a parametric daylight factor case with Ladybug/HoneyBee (Legacy) and simulates all 36 on Compute and gets the results back in the time of 1!",
   "downloadUrl": "https://github.com/procedural-build/demos/blob/master/DaylightFactorParametric/DaylightFactorParametric.gh?raw=true",
-  "pictureUrl": "https://github.com/procedural-build/demos/blob/master/DaylightFactorParametric/daylight_factor_parametric.gif?raw=true"
+  "pictureUrl": "https://github.com/procedural-build/demos/blob/master/DaylightFactorParametric/daylight_factor_parametric.gif?raw=true",
+  "videoUrl": null
 }

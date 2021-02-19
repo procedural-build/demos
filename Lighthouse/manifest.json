@@ -2,5 +2,6 @@
   "name": "Wind Comfort Map",
   "description": "This demo shows you how to run a virtual wind tunnel with 16 angles and afterwards postprocess the results into a wind comfort map based on the Lawson criteria. This demo simulates a real project by the Danish architecture studio: 3XN. The demo requires you to have the Rhino .3dm file open while you use the Grasshopper canvas.",
   "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/procedural-build/demos/tree/master/Lighthouse",
-  "pictureUrl": "https://github.com/procedural-build/demos/blob/master/Lighthouse/outdoor-wind-flow.png?raw=true"
+  "pictureUrl": "https://github.com/procedural-build/demos/blob/master/Lighthouse/outdoor-wind-flow.png?raw=true",
+  "videoUrl": null
 }
