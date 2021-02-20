@@ -3,5 +3,6 @@
   "description": "This demo shows how to run a virtual wind tunnel on Compute. This is a great demo if you are a new user to Compute. The demo walks you through a simple VWT case and visualises the results in Grasshopper. It is recommended to watch the Youtube video first to get an idea of each component.",
   "videoUrl": "https://www.youtube.com/embed/F6MbzIVHRSQ",
   "downloadUrl": "https://github.com/procedural-build/demos/blob/master/VWT/ComputeVWT-DEMO.gh?raw=true",
-  "pictureUrl": null
+  "pictureUrl": null,
+  "pictureName": null
 }

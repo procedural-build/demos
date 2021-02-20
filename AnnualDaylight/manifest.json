@@ -3,5 +3,6 @@
   "description": "Run an annual daylight simulation using Radiance in the cloud. We use Radiance's 3 phase method to achieve annual results and apply the Daylight Autonomy (DA) metric to the results.",
   "downloadUrl": "https://github.com/procedural-build/demos/blob/master/AnnualDaylight/AnnualDaylight.gh?raw=true",
   "pictureUrl": "https://github.com/procedural-build/demos/blob/master/AnnualDaylight/annual_daylight.png?raw=true",
+  "pictureName": "annual_daylight.png",
   "videoUrl": null
 }
