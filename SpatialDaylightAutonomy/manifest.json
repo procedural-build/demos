@@ -1,0 +1,8 @@
+{
+  "name": "Spatial Daylight Autonomy",
+  "description": "Run an annual daylight simulation and see how the office ranks in terms of Spatial Daylight Autonomy.",
+  "downloadUrl": "https://github.com/procedural-build/demos/blob/master/SpatialDaylightAutonomy/SpatialDaylightAutonomy.gh?raw=true",
+  "pictureUrl": "https://github.com/procedural-build/demos/blob/master/SpatialDaylightAutonomy/spatial_daylight_autonomy.png?raw=true",
+  "pictureName": "spatial_daylight_autonomy.png",
+  "videoUrl": null
+}
