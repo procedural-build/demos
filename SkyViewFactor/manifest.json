@@ -1,0 +1,8 @@
+{
+  "name": "Sky View Factor",
+  "description": "Run an Sky View Factor simulation and quickly see how the daylight availability is on your volume study",
+  "downloadUrl": "https://github.com/procedural-build/demos/blob/master/SkyViewFactor/SkyViewFactor.gh?raw=true",
+  "pictureUrl": "https://github.com/procedural-build/demos/blob/master/SkyViewFactor/sky_view_factor.png?raw=true",
+  "pictureName": "sky_view_factor.png",
+  "videoUrl": null
+}

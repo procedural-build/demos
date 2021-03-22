@@ -1,0 +1,8 @@
+{
+  "name": "Solar Radiation",
+  "description": "Run an annual outdoor solar radiation simulation and see how many kWh your model receives",
+  "downloadUrl": "https://github.com/procedural-build/demos/blob/master/SolarRadiation/SolarRadiation.gh?raw=true",
+  "pictureUrl": "https://github.com/procedural-build/demos/blob/master/SolarRadiation/solar_radiation.png?raw=true",
+  "pictureName": "solar_radiation.png",
+  "videoUrl": null
+}
