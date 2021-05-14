@@ -1,0 +1,8 @@
+{
+  "name": "Rhino.Inside Revit - Annual Daylight",
+  "description": "Run an annual daylight simulation from Revit using Rhino.Inside. In this tutorial we use Rhino.Inside to extract geometry from Revit into Grasshopper. The geometry can then be processed with the Compute plugin and the daylight simulation can be run. When the results are done, we can download them and visualize them in Grasshopper and put the Spatial Daylight Autonomy results back into Revit as meta data.",
+  "downloadUrl": "https://github.com/procedural-build/demos/blob/master/AnnualDaylightRevit/AnnualDaylightRevit.gh?raw=true",
+  "pictureUrl": "https://github.com/procedural-build/demos/blob/master/AnnualDaylightRevit/annual_daylight_revit.png?raw=true",
+  "pictureName": "annual_daylight_revit.png",
+  "videoUrl": null
+}
