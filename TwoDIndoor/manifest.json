@@ -4,5 +4,6 @@
   "downloadUrl": "https://github.com/procedural-build/demos/blob/master/TwoDIndoor/2D-Indoor.gh?raw=true",
   "pictureUrl": "https://github.com/procedural-build/demos/blob/master/TwoDIndoor/indoor-air-flow.png?raw=true",
   "videoUrl": null,
-  "pictureName": "indoor-air-flow.png"
+  "pictureName": "indoor-air-flow.png",
+  "tags": ["grasshopper", "cfd", "indoor"]
 }

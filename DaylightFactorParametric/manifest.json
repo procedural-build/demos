@@ -4,5 +4,6 @@
   "downloadUrl": "https://github.com/procedural-build/demos/blob/master/DaylightFactorParametric/DaylightFactorParametric.gh?raw=true",
   "pictureUrl": "https://github.com/procedural-build/demos/blob/master/DaylightFactorParametric/daylight_factor_parametric.gif?raw=true",
   "pictureName": "daylight_factor_parametric.png",
-  "videoUrl": null
+  "videoUrl": null,
+  "tags": ["grasshopper", "daylight", "indoor", "parametric", "honeybee"]
 }

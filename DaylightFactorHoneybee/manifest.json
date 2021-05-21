@@ -3,5 +3,6 @@
   "description": "See how to run a Daylight Factor Simulation on Compute! In this demo we setup a simple case with Ladybug/HoneyBee (Legacy) and simulate it on Compute, pulls the results down and visualize them as if we had ran it locally!",
   "downloadUrl": "https://github.com/procedural-build/demos/blob/master/DaylightFactorHoneybee/DaylightFactorHoneyBee.gh?raw=true",
   "pictureUrl": "https://github.com/procedural-build/demos/blob/master/DaylightFactorHoneybee/daylight_factor_honeybee.png?raw=true",
-  "pictureName": "daylight_factor_honeybee.png"
+  "pictureName": "daylight_factor_honeybee.png",
+  "tags": ["grasshopper", "daylight", "indoor", "honeybee"]
 }

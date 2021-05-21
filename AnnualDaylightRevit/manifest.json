@@ -4,5 +4,6 @@
   "downloadUrl": "https://github.com/procedural-build/demos/blob/master/AnnualDaylightRevit/AnnualDaylightRevit.gh?raw=true",
   "pictureUrl": "https://github.com/procedural-build/demos/blob/master/AnnualDaylightRevit/annual_daylight_revit.png?raw=true",
   "pictureName": "annual_daylight_revit.png",
-  "videoUrl": null
+  "videoUrl": null,
+  "tags": ["grasshopper", "revit","daylight", "indoor"]
 }

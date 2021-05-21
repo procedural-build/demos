@@ -4,5 +4,6 @@
   "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/procedural-build/demos/tree/master/Lighthouse",
   "pictureUrl": "https://github.com/procedural-build/demos/blob/master/Lighthouse/outdoor-wind-flow.png?raw=true",
   "videoUrl": null,
-  "pictureName": "outdoor-wind-flow.png"
+  "pictureName": "outdoor-wind-flow.png",
+  "tags": ["grasshopper", "cfd", "outdoor", "wind"]
 }

@@ -4,5 +4,6 @@
   "downloadUrl": "https://github.com/procedural-build/demos/blob/master/SolarRadiation/SolarRadiation.gh?raw=true",
   "pictureUrl": "https://github.com/procedural-build/demos/blob/master/SolarRadiation/solar_radiation.png?raw=true",
   "pictureName": "solar_radiation.png",
-  "videoUrl": null
+  "videoUrl": null,
+  "tags": ["grasshopper", "daylight", "outdoor", "radiation"]
 }

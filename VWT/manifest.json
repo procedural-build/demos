@@ -4,5 +4,6 @@
   "videoUrl": "https://www.youtube.com/embed/F6MbzIVHRSQ",
   "downloadUrl": "https://github.com/procedural-build/demos/blob/master/VWT/ComputeVWT-DEMO.gh?raw=true",
   "pictureUrl": null,
-  "pictureName": null
+  "pictureName": null,
+  "tags": ["grasshopper", "cfd", "outdoor", "wind"]
 }

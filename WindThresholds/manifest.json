@@ -4,5 +4,6 @@
   "downloadUrl": "https://github.com/procedural-build/demos/blob/master/WindThresholds/WindThresholds.gh?raw=true",
   "pictureUrl": "https://github.com/procedural-build/demos/blob/master/WindThresholds/4-wind-criteria.png?raw=true",
   "videoUrl": null,
-  "pictureName": "4-wind-criteria.png"
+  "pictureName": "4-wind-criteria.png",
+  "tags": ["grasshopper", "cfd", "outdoor", "wind", "comfort"]
 }
