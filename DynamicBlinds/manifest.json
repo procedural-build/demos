@@ -1,0 +1,9 @@
+{
+  "name": "Dynamic Blinds",
+  "description": "Run an annual daylight simulation where you change the glazing material with a schedule to simulate turning blinds on and off.",
+  "downloadUrl": "https://github.com/procedural-build/demos/blob/master/DynamicBlinds/DynamicBlinds.gh?raw=true",
+  "pictureUrl": "https://github.com/procedural-build/demos/blob/master/DynamicBlinds/dynamic_blinds.png?raw=true",
+  "pictureName": "dynamic_blinds.png",
+  "videoUrl": null,
+  "tags": ["grasshopper", "daylight", "indoor"]
+}
