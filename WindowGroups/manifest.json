@@ -1,0 +1,9 @@
+{
+  "name": "Annual Daylight w/o Window Groups",
+  "description": "Run an annual daylight simulation with and without Window Groups",
+  "downloadUrl": "https://github.com/procedural-build/demos/blob/master/WindowGroups/WindowGroups.gh?raw=true",
+  "pictureUrl": "https://github.com/procedural-build/demos/blob/master/WindowGroups/window_groups.png?raw=true",
+  "pictureName": "window_groups.png",
+  "videoUrl": null,
+  "tags": ["grasshopper", "daylight", "indoor"]
+}
