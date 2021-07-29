@@ -1,0 +1,9 @@
+{
+  "name": "Outdoor Urban Comfort with UTCI",
+  "description": "Run an UTCI analysis with a full virtual wind tunnel and mean radiant study!",
+  "downloadUrl": "https://github.com/procedural-build/demos/blob/master/UTCI/UTCI.gh?raw=true",
+  "pictureUrl": "https://github.com/procedural-build/demos/blob/master/UTCI/utci.png?raw=true",
+  "videoUrl": null,
+  "pictureName": "utci.png",
+  "tags": ["grasshopper", "cfd", "outdoor", "wind", "utci", "comfort", "radiation"]
+}
