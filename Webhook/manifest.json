@@ -1,0 +1,9 @@
+{
+  "name": "Webhook",
+  "description": "Run a VWT simulation and use Compute's built in webhook to ping a remote url",
+  "downloadUrl": "https://github.com/procedural-build/demos/blob/master/Webhook/Webhook.gh?raw=true",
+  "pictureUrl": "https://github.com/procedural-build/demos/blob/master/Webhook/webhook.png?raw=true",
+  "pictureName": "webhook.png",
+  "videoUrl": null,
+  "tags": ["grasshopper", "cfd", "webhook"]
+}

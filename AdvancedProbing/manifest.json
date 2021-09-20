@@ -1,0 +1,9 @@
+{
+  "name": "Advanced Probing",
+  "description": "Run a VWT simulation and probe the inlet velocity at each time step.",
+  "downloadUrl": "https://github.com/procedural-build/demos/blob/master/AdvancedProbing/AdvancedProbing.gh?raw=true",
+  "pictureUrl": "https://github.com/procedural-build/demos/blob/master/AdvancedProbing/advanced_probes.png?raw=true",
+  "pictureName": "advanced_probes.png",
+  "videoUrl": null,
+  "tags": ["grasshopper", "cfd", "outdoor", "wind"]
+}
