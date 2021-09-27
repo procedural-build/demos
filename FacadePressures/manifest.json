@@ -1,7 +1,7 @@
 {
   "name": "Facade Pressures",
   "description": "Run a VWT simulation and use the results to calculate the pressure coefficients. The coefficients can later be used in an EnergyPlus calculation.",
-  "downloadUrl": "https://github.com/procedural-build/demos/blob/master/FacadePressures/FacadePressures.gh?raw=true",
+  "downloadUrl": "https://github.com/procedural-build/demos/blob/master/FacadePressures/FacadePressure.gh?raw=true",
   "pictureUrl": "https://github.com/procedural-build/demos/blob/master/FacadePressures/facade_pressure.png?raw=true",
   "pictureName": "facade_pressure.png",
   "videoUrl": null,
