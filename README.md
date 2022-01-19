@@ -1,7 +1,9 @@
-# Procedural Compute
-Procedural Compute is a platform for running building physics in the cloud. Directly from Grasshopper. 
-This repo contains demos of how to work with Procedural Compute from Grasshopper.
- 
-Visit [Compute](https://compute.procedural.build/?github=demos) to find out more and sign up for free
+# Procedural Compute Demos
 
-See the demos at [Compute Tutorials](https://compute.procedural.build/tutorials/?github=demos)
+This repo contains demo files for executing tasks on the Procedural Compute platform using `Rhino/Grasshopper`, `Blender` and headless plain-Python `Jupyter notebooks`.
+
+## What is Procedural Compute?
+
+Compute is a cloud-based SaaS framework for simplifying the queuing and execution of complex and comptationally-heavy tasks on cloud infrastructure.  Compute contains a simple and consistent API-based interface so that users may easily post tasks to the Compute infrastructure.
+
+Compute contains various libraries and interfaces that simplify and streamline execution of particular tasks on the cloud - currently these are CFD, daylight and energy modelling for building-physics type tasks.  However these libraries will be extended in the future to include other tasks such as training machine-learning models; generic data-process and analytics; and other such tasks that require compute resources.
