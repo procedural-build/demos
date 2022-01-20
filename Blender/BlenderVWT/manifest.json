@@ -1,9 +1,0 @@
-{
-  "name": "Blender Virtual Wind Tunnel",
-  "description": "This demo shows how to run a virtual wind tunnel on Compute using Blender.",
-  "downloadUrl": "https://github.com/procedural-build/demos/blob/master/BlenderVWT/VWTDemo.gh?raw=true",
-  "pictureUrl": "https://github.com/procedural-build/demos/blob/master/BlenderVWT/blender_vwt.png?raw=true",
-  "pictureName": "blender_vwt.png",
-  "videoUrl": null,
-  "tags": ["blender", "wind", "outdoor", "cfd"]
-}
